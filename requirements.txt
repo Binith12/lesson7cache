@@ -1,0 +1,3 @@
+grpcio==1.60.0
+lalsuite=7.21
+catboost==1.2
